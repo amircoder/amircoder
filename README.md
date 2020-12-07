@@ -6,6 +6,7 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/amir-naghavi-b45a6390">LinkedIn</a> & <a href="http://multi-thread.com/">Portfolio</a>
 
 I have published some sample projects using my knoweledge about Android, Kotlin and clean code.
+
 <a href="https://github.com/amircoder">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amircoder&theme=dracula&hide=css&mode=compact" />
 
