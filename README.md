@@ -3,7 +3,7 @@
 - 🤓 I am not a Nerd!. 
 - 😎 I enjoy learning and sharing.
 - 💬 Ask me about Android, Java, Kotlin.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/amir-naghavi-b45a6390">LinkedIn</a> & <a href="http://multi-thread.com/">Portfolio</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/amir-naghavi-b45a6390">LinkedIn</a> & <a href="http://multi-thread.com/">Portfolio</a> & <a href="https://twitter.com/AmirNaghavi4">Portfolio</a>
 
 I have published some sample projects using my knoweledge about Android, Kotlin and clean code.
 
