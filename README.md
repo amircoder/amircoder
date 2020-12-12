@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/amircoder/amircoder/blob/main/header.png?raw=true" height=180px width=864px> -->
 
-<img align="right" src="https://github.com/amircoder/amircoder/blob/main/right.png?raw=true" width=450px/>
+<!-- <img align="right" src="https://github.com/amircoder/amircoder/blob/main/right.png?raw=true" width=450px/> -->
 
 ### Hi there, i am Amir Naghavi an Android developer 👋
 
