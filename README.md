@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://github.com/amircoder/amircoder/blob/main/right.png?raw=true" width=450px/> -->
 
-### Hi there, i am Amir Naghavi an Android developer 👋
+### Hi there, I am Amir Naghavi an Android developer 👋
 
 - 🤓 I am not a Nerd!
 - 😎 I enjoy learning and sharing.
